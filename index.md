@@ -154,7 +154,7 @@ and our administrator may contact you if we need any extra information.</h4>
   organizers in advance.  If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
-  attempt to provide them. Please let us know if there are other requirements such as strong allergies that you want us to be aware of.
+  attempt to provide them. Please let us know if there are other instances such as strong allergies that you want us to be aware of.
 </p>
 
 {% comment %}
