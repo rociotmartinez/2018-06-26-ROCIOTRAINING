@@ -121,7 +121,7 @@ and our administrator may contact you if we need any extra information.</h4>
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on. They should have a few specific software packages installed (listed
+  on. There will be charging points but bringing laptops fully charged will not hurt. They should have a few specific software packages installed (listed
   <a href="#setup">below</a>). They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
@@ -154,7 +154,7 @@ and our administrator may contact you if we need any extra information.</h4>
   organizers in advance.  If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
-  attempt to provide them.
+  attempt to provide them. Please let us know if there are other requirements such as strong allergies that you want us to be aware of.
 </p>
 
 {% comment %}
